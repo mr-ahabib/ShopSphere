@@ -17,11 +17,11 @@ A beautiful, eco-themed mobile shopping app built with React Native and Expo. Fe
 
 | Get Started | Home Screen | Cart | Wishlist|
 |-------------|-------------|------|---------|
-| ![Home](screenshots/9.jpg) | ![Product](screenshots/6.jpg) | ![Cart](screenshots/7.jpg) | ![Wishlist](screenshots/8.jpg) |
+| ![Home](Screenshots/9.jpg) | ![Product](Screenshots/6.jpg) | ![Cart](Screenshots/7.jpg) | ![Wishlist](Screenshots/8.jpg) |
 
 | Login | Signup | Forget Password | OTP Verification | Reset Password |
 |-------|--------|-----------------|------------------|----------------|
-| ![Login](screenshots/1.jpg) | ![Signup](screenshots/2.jpg) | ![Forget Password](screenshots/3.jpg) | ![OTP Verification](screenshots/4.jpg) | ![Reset Password](screenshots/5.jpg) |
+| ![Login](Screenshots/1.jpg) | ![Signup](Screenshots/2.jpg) | ![Forget Password](Screenshots/3.jpg) | ![OTP Verification](Screenshots/4.jpg) | ![Reset Password](Screenshots/5.jpg) |
 ## Technologies Used
 
 - React Native
